@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: ghostwhite;
+    font-family: 'Bodoni 72', cursive;
+}
+.snow{
+    height: 60px;
+    width: 100px;
+}
+.digital{
+   margin-left: 60px;
+}
+.flower{
+    padding-right: 45px;
+    margin-left: -60px;
+}
+#flower{
+    height: 400px;
+    width: 800px;
+}
+.shopping{
+    height: 600px;
+    background-color: #c6c8ca;
+}
+#shopping, .mikeybag, #panda{
+    height: 200px;
+}
+.tel, .tshirt, .written, .shirt, .annimals, .neswpaper, .help{
+    height: 300px;
+}
+.numbers{
+    font-size: 50px;
+}
+.shirtanimals, #tel{
+    padding: 0;
+}
+.tel{
+    background-color: azure;
+}
+.shirt{
+    background-color: #6c757d;
+}
+.annimals{
+    background-color: honeydew;
+}
+.neswpaper{
+    background-color: #d9cec8;
+}
+.bag{
+    background-color: #abdde5;
+}
+.link a:hover{
+    background-color: #464a4e;
+}
+a:hover{
+    text-decoration: none;
+}
+footer{
+    height: 100px;
+}
+

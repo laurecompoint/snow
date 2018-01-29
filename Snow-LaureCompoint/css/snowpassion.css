@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: ghostwhite;
+    font-family: 'Bodoni 72', cursive;
+}
+.snow{
+    height: 60px;
+    width: 100px;
+}
+.tel, .newspaper, .music, .tshirt, .bag, .shirt, #newspaper, #tshirt, #shirt, #maps{
+    height: 300px;
+}
+.shopping, .annimals, .maps{
+    height: 600px;
+}
+#music, #shopping, #panda, #bag{
+    height: 200px;
+}
+.shopping, .maps{
+    background-color: #c6c8ca;
+}
+.bag{
+    background-color: whitesmoke;
+}
+.shirt, .tshirt{
+    background-color:#dbdbdb;
+}
+.annimals{
+    background-color: honeydew;
+}
+.music{
+    background-color: #F0FFFF;
+}
+.tel{
+    background-color: azure;
+}
+.newspaper{
+    background-color: #d9cec8;
+}
+a:hover{
+    text-decoration: none;
+}

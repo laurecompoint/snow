@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bodoni 72', cursive;
+}
+.snow{
+    height: 60px;
+    width: 100px;
+}
+.tablet{
+    height: 400px;
+}
+.button, .buttontwo{
+    margin-top: 150px;
+}
+.buttontwo{
+    margin-right: 420px;
+}
+.create{
+    margin-left: 150px;
+}
+.tel, .newspaper, .shirts, .bag, .wine, .annimals, #tablet{
+    height: 400px;
+}
+#iphone, #tshirt, #bag{
+    height: 300px;
+}
+.shirts{
+    padding: 0;
+}
+.writing, #panda{
+    height: 200px;
+}
+.digital{
+    background-color: #c6c8ca;
+}
+.tel{
+    background-color: azure
+}
+.newspaper{
+    background-color: #d9cec8;
+}
+.shirt{
+    background-color:#dbdbdb;
+}
+.bag{
+    background-color: whitesmoke;
+}
+.annimals{
+    background-color: honeydew;
+}
+.wine{
+    background-color: #6c757d;
+}

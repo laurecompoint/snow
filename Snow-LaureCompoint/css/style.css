@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bodoni 72', cursive;
+}
+.snow{
+    height: 60px;
+    width: 100px;
+}
+#chair{
+    height: 560px;
+    width: 740px;
+    margin-left: -25px;
+}
+.digital{
+    background-color: ghostwhite;
+}
+.newspaper, .bag, .animals, .shirt, .tel, .wine, .shopping, .shirts, .music{
+    height: 400px;
+}
+#newspaper, #bag, #tshirt, #shirt, #shopping{
+    height: 300px;
+}
+#iphone, #music{
+    height: 200px;
+}
+.newspaper{
+    background-color: #d9cec8;
+}
+.bag, .animals{
+    background-color: whitesmoke;
+}
+.shirt{
+    background-color:#dbdbdb;
+}
+.tel{
+    background-color: ghostwhite;
+}
+.shopping, .shirts{
+    background-color: #c6c8ca;
+}
+.music{
+    background-color: #F0FFFF;
+}
+.link a:hover{
+    background-color: #464a4e;
+    text-decoration: none;
+}
+@media(max-width: 320px){
+    #chair{
+        height: 560px;
+        width: 360px;
+    }
+}
